@@ -1,13 +1,13 @@
 puts "Добрый день!"
 
 puts "Введите первую сторону треугольника"
-a = gets.chomp.to_i
+a = gets.chomp.to_f
 
 puts "Введите вторую сторону треугольника"
-b = gets.chomp.to_i
+b = gets.chomp.to_f
 
 puts "Введите третью сторону треугольника"
-c = gets.chomp.to_i
+c = gets.chomp.to_f
 
 puts "Мой вариант"
 
